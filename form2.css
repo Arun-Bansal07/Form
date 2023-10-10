@@ -1,0 +1,23 @@
+.container{
+    width: 800px;
+    height: 800px;
+    background-color: red;
+    margin:auto;
+}
+
+.hi{
+    position: relative;left: 230px;
+    width: 350px;
+    height: 50px;
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+
+.hi2{
+    background-color: blue;
+    position: relative;left: 230px;
+    width: 350px;
+    height: 50px;
+}
